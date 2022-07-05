@@ -1,3 +1,4 @@
+![octocat-1657019632408](https://user-images.githubusercontent.com/108069922/177315931-7e4d0a24-1321-4e4e-8f75-3992c86ff91f.png)
 # Sobre mim
 Olá, meu nome é Guilherme
 Eu estou interessado em aprender novas linguagens de programação.
